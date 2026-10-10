@@ -21,21 +21,6 @@ An introduction to the fundamental concepts of bioinformatics, biological data, 
 - Use keywords, filters, and advanced search strategies.
 - Retrieve and interpret scientific literature to support biological research.
 
-#### Episode 3: BLAST, Multiple Sequence Alignment, and Phylogenetic Analysis of Beta-Lactamases
-- Understand the principles and applications of BLAST.
-- Identify homologous sequences using sequence similarity searches.
-- Perform multiple sequence alignment (MSA).
-- Explore evolutionary relationships among beta-lactamases.
-- Construct and interpret phylogenetic trees.
-
-## 🎯 Learning Objectives
-
-By the end of this course, students should be able to:
-- Retrieve and interpret biological information from public databases.
-- Search and access relevant scientific literature.
-- Perform basic sequence similarity searches and multiple sequence alignment.
-- Understand the fundamentals of phylogenetic analysis.
-- Apply bioinformatics tools to investigate biological questions.
 
 
 *Happy learning and exploring bioinformatics!* 🧬
