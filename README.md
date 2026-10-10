@@ -1,6 +1,6 @@
 # Intro to Bioinformatics
 
-Welcome to the **Intro to Bioinformatics** course repository! This repository contains tutorials, practical guides, example datasets, and supporting materials for the course. It is designed to introduce students to essential bioinformatics tools, biological databases, and sequence analysis workflows through hands-on learning.
+Welcome to the **Intro to Bioinformatics** course repository! This repository contains tutorials and supporting materials for the course. It is designed to introduce students to essential bioinformatics tools, biological databases, and sequence analysis workflows through hands-on learning.
 
 ## 📚 Course Agenda
 
